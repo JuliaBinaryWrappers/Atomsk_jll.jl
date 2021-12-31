@@ -1,0 +1,459 @@
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "72ad92fb54113649c8d851b95d471625bc476e7c"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Atomsk.download]]
+    sha256 = "06a19f82c9bed6d112ae5a9e7fc01ee60332d4e43cff90893e89a09ad33eaa90"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "88a8a292c9046e35eb4a10ac70503c0710e4fa08"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "ea1905b1992a54d8551c6a8af8a8195b05116086ab78951a526d946119943414"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "2b9594f19f7af2b43d34f1b10daeb420dd100bc2"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "d383d4afe05b605ea4cb8913674b5dbf829bcebbf5258719ab26f288c51d39e2"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "d8561e290d2ebe2dd6afb81a6feeb627036bc060"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "2aa1c14605c49e31174e65ae068ea15af65e727134290fe1d0314f7fc2495452"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "0e3d0744773540547e3736793457a4ca2f04193e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "c62fd09314029bdc1567bfb8cdfdb604f944f5cb04c48b69977845241c44a99e"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-linux-musl-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "5a7f21f67fcec2033918a7cdb16538fe46ebaade"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "aefb33c7b8cf1b4b416019e8c51f237f0a555e1ee4484880466818e78862fd10"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-linux-musl-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "aefc4384fbcdab4f0d6e0d88e0fe946f4224de94"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "e01caed45fba2f5cb276e5ad2f98be648da2388d11c02727b2b05a0fe14bf471"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2c039fd8e8da8d8fbba6a2f89145a1b808a835c7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "ef0e93667b2477f60622b0eba6433946a388b382091cdf44925347d76f3e5f20"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "19f62ff1998f52662013685a7ee3b992234770a1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "73997056dcfbf0926c3db9d80b5b7dc29a4dbc38fda0f9aded2ac4ea75e78956"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "03cfed9357fc3a278e33178243aef92265cb502f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "adaf54267808be53c33d3acc00e8923fef76d1f3cfee86044b9984179be1985c"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "755abcb5832640208a51d810b7d6f97dbc80e035"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "b29137e79100ea2d01f7277a669efc71f0b3e49525324b5583dbb0d37b2ac039"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9c042b290c83a23314f593caa1ecfe68f545acad"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "6ee42bad93e5d1fad6f79b1c05cb9915aae76a6109d717a4051958c8be5690f0"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dd4110cd713d21909b7c45e2bba7e3702a411062"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "6117c481cb5be4fd638a0355a3172e7795f4083a6f551f6e4fe7a58d1ddfb772"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1a822c1530700e492435dbf880aa6c177fec2dd4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "81926e89fb2939ff0439af4161ca02313179b04e762376e2c8bcc41d8c313fff"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8563f9d9695b43e2c56503c17a75eaf5fee65fe3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "d9553149c95da9f9a09314d2bb49a677a4126d9dbe6660cb433a26b5abe31c1e"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "82686370954b612a2f2d0dac4169ed5c5bf95213"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "a6ecc08a3ab8f2c3e68602b0fd9e0db83e8baade2342ec6a73b7519f1ced2ef4"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2d0360ad12dd526275789063cd6c8348366903af"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "b745e22b2372c14b70bcd8610666dc02f53d19fe69314d5c1d3726ac8d672d13"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9ea51bfbb0d479d9f6c8e8bb3581b8809db1c896"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "f905e50a42fcd194c86e6237050f02bf5aebe938ab3a05d917ab4eab9d069a31"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1034e3899b93c8d48d608c16306f68654df11af7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "72ea1f9245b428999883238911d4d856a73cb43f1cce6b949267592d1d7ef9cd"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "909a13dbc1c0464041f2ca6b34b4e96cf03920c1"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "85fce0ba22d7471bcebecd7859da1d04f5eb9ed73372a8582d9e523e91806bfc"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-linux-gnu-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "79fcf23006a5cb3de774b1ac4ad0de04529bc27b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "9d76b85e438f1e62e467c3c4cdd573d5559d35c817fa34bb99e2f5b7bb680c3e"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "5118c0f79010df75e009f0226ac04c24472fdcef"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "92976dab1619b613da8f2fe38a64b5af915fcbbdf728028c815719b91bf84751"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "996d801845d7b1116e5f3559ca035fa741c85514"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "ff250085376420f571cbe8530ecc8ad102d3f5741729dbfec9f90e7ef3e14872"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-linux-musl-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "e4c225b1d727cd61714365780ba6b6ce7fd65e21"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "39a75fb31b99c362612c0575358762a3cad2f17d67c3c67822a3986b3c26e7a6"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-linux-musl-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "3e8077f7a97ab07878ea7d7552e3a1108ea3654c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "d5fb94c9e28320c8ec06baf9b2ba8b3b7c50e6cccf1f0dc3ad981b4cc5e79468"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-linux-musl-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "3ecf5ce568236c1eb8d84d19fc40c02930ff99cb"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Atomsk.download]]
+    sha256 = "45f1efed89381cdb3120ae450b5540083f531e9959c853f478df30a195daa548"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-w64-mingw32-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "f1b545f45c6f9aec10651cb594ffeb528f4d59bb"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Atomsk.download]]
+    sha256 = "6af66b3d831c88ef0dbb43163a1591389227d9f3f38df1120eb6fb3627a59f87"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-w64-mingw32-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "i686"
+git-tree-sha1 = "146c86caaaa7693116bde2840a22df50261f1443"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Atomsk.download]]
+    sha256 = "8e06c2086982221539fc6fea11fd4a0469258cd5c572f3e5aeec9c274c2a9100"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.i686-w64-mingw32-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "powerpc64le"
+git-tree-sha1 = "182ff45b160bb89a545c7320749e712ae0063acd"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "888e220661d517e6c6107ea2d39dfc952e1e60f24c8c3b0b20a4061aaf33d6a8"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "powerpc64le"
+git-tree-sha1 = "2ac7a770b6c704f539b22724e49327c320e759c9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "ed3689879de9030e1c70c058a9879af8152edca8d399b5c997bd54310960e42b"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "powerpc64le"
+git-tree-sha1 = "b29852d9cd2945b95714633c1ffab5d695309b0b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "93e095a33c2eea06742a60967370e7b5351f65c80b512df628892bfa0002c88e"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "e8a2dcb00c0156af36fd583e90fda66539aeb414"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Atomsk.download]]
+    sha256 = "49d5d0506ddc80d6f75ae392c6a91ff408d0fa924fbb43105a4840b357ab9acd"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "2150a6b647ff9f589b5bac19c6f5d5ad22779044"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Atomsk.download]]
+    sha256 = "1a9f9a29aff42a95cbafcc0c32bc66681d0611c2909086a4a06ce55761aca29b"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "4e73fc3d691c0f90d26894c685894027171b6284"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Atomsk.download]]
+    sha256 = "b4d4602e724e5805de8711e6f50fe29471530139f49766dcfa8a56e87421fda8"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "cb1df4ffda94190dc7b01a0d034414abbc3c39ea"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "65fd86b4e6bff5fe215d859e42c53a2b830f9c9cf9a416a405f5b0f677e554b7"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "a5f256a388aa41b2673a237023ad5f701b167944"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "3cc09b88eddea7bdccdc2be372617aeaa93d640e9f5301c59ab05db86f85e428"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "a5ab7d8bdfd00a7feda76b64fae09d6b1cc4b6f1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "ff54ee46088279a0b6266a655502afec5d11f928185552f55dab00ca287fac06"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "e0efb4c344e0784669c760a90e78be0984aca311"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "ed817de4bccbda59a4b0fe0af760f30207789b696c31d484a5d064ab7933c686"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-linux-musl-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "8e74adb44a45b1dbcf8f9e363b81ee41398d5bcf"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "64945939d92e69636356ae5e7b9572462ebe3dc7eb688b762e37c0b2fa70d830"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-linux-musl-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "9f5514caec7f5f1bda03e4cde7b8a65e20b27626"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Atomsk.download]]
+    sha256 = "78f03dbdc7652abbd580d0e5012cda126d3062f09906fdedd3623013fdc9e9e5"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "862ae9e07d04627bade3fa302831f115de64acd1"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Atomsk.download]]
+    sha256 = "7bf6b3c768a39d6c69074080b62bcdfd69e8dff15527f4d937d7e166f5b61e57"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "db42df713a7e3ec29bdca26b34da7bf1b0cc5415"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Atomsk.download]]
+    sha256 = "565f765796f2555a67ca087e95f1ec5665fb18dd60bd74df9cf04aa82bf7795b"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "5688a102bbb724d58d4f22101bdd90917165ba6e"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Atomsk.download]]
+    sha256 = "6bfc7f60397f28e1212e2fef1d712b586b301f694def831407024d2eb29f7695"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "aa31443cc6dc6a81ca9fee51105963f9b4cbf057"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Atomsk.download]]
+    sha256 = "bdbc1ee3dcafc289cf25b89b156714c635503551652f2f872c7da9ed74507d15"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "f6c77536c39490e3bfc0e2a8f3e51709b4d6cc46"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Atomsk.download]]
+    sha256 = "0b4e51f172d0727a6481f5f85dccce5e429e2c713a2b22c812013f586a0ae44f"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[Atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "347ab46084edf76b997d6aaa2c38f88bd3c2adee"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Atomsk.download]]
+    sha256 = "3a8dc13f831a4902a33e6f2add33b20c6415cdbbbadedffa6820d92c9e91e169"
+    url = "https://github.com/JuliaBinaryWrappers/Atomsk_jll.jl/releases/download/Atomsk-v0.11.2+0/Atomsk.v0.11.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
